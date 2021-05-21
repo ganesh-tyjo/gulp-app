@@ -1,4 +1,11 @@
-# ![Gulp](/content/images/gulp-logo.png 'Gulp') Gulp 4.0
+<p align="center">
+  <a href="https://gulpjs.com">
+    <img src="./content/images/gulp-logo.png" alt="Gulp">
+  </a>
+  <p align="center">The streaming build system</p>
+</p>
+
+---
 
 This is a gulpfile with useful tasks. Using this you can automate all boring and repititive tasks especially in regards to deploying a html, css and javascript website.
 
