@@ -1,3 +1,13 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<br />
 <p align="center">
   <a href="https://gulpjs.com">
     <img src="./content/images/gulp-logo.png" alt="Gulp" height="150" width="auto" >
@@ -9,7 +19,7 @@
 
 This is a gulpfile with useful tasks. Using this you can automate all boring and repetitive tasks especially in regards to deploying a html, css and javascript website.
 
-<br/>
+<br />
 <details open='open'>
 <summary><strong>Table of Contents<strong></summary>
 
@@ -191,3 +201,18 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ganesh-tyjo/
 Ganesh Shinde - ganeshshinde.tyjo@gmail.com
 
 Project Link - [https://github.com/ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/ganesh-tyjo/gulp-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/ganesh-tyjo/gulp-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ganesh-tyjo/gulp-app.svg?style=for-the-badge
+[forks-url]: https://github.com/ganesh-tyjo/gulp-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/ganesh-tyjo/gulp-app.svg?style=for-the-badge
+[stars-url]: https://github.com/ganesh-tyjo/gulp-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ganesh-tyjo/gulp-app.svg?style=for-the-badge
+[issues-url]: https://github.com/ganesh-tyjo/gulp-app/issues
+[license-shield]: https://img.shields.io/github/license/ganesh-tyjo/gulp-app.svg?style=for-the-badge
+[license-url]: https://github.com/ganesh-tyjo/gulp-app/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/ganesh-tyjo
