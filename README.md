@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://gulpjs.com">
-    <img src="./content/images/gulp-logo.png" alt="Gulp">
+    <img src="./content/images/gulp-logo.png" alt="Gulp" height="150" width="auto" >
   </a>
   <p align="center">The streaming build system</p>
 </p>
