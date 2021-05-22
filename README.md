@@ -7,7 +7,28 @@
 
 ---
 
-This is a gulpfile with useful tasks. Using this you can automate all boring and repititive tasks especially in regards to deploying a html, css and javascript website.
+This is a gulpfile with useful tasks. Using this you can automate all boring and repetitive tasks especially in regards to deploying a html, css and javascript website.
+
+<br/>
+<details open='open'>
+<summary>Table Of Contents</summary>
+
+- [Summary](#summary)
+- [Common Tasks](#common-tasks)
+- [Getting Started](#getting-started)
+  - [Step - 1](#step---1)
+  - [Step - 2](#step---2)
+  - [Step - 3](#step---3)
+  - [Step - 4](#step---4)
+  - [Step - 5](#step---5)
+  - [Step - 6](#step---6)
+  - [Step - 7](#step---7)
+- [Roadmap](#roadmap)
+- [Contribution](#contribution)
+- [License](#license)
+- [Author](#author)
+
+</details>
 
 ## Summary
 
@@ -31,9 +52,9 @@ Install [Node.js](https://nodejs.org/en/download/)
 
 ### Step - 2
 
-Install Gulp globbaly using following command in command line.
+Install Gulp globally using following command in command line.
 
-```cmd
+```bash
 npm install -g gulp
 ```
 
@@ -41,7 +62,7 @@ npm install -g gulp
 
 Go to your project directory and run below command from inside that directory. It will create `package.json` file.
 
-```cmd
+```bash
 npm init -y
 ```
 
@@ -49,7 +70,7 @@ npm init -y
 
 Install required plugins and save them as development dependencies using below command.
 
-```cmd
+```bash
 npm install --save-dev gulp gulp-concat gulp-rename gulp-replace gulp-imagemin gulp-sourcemaps gulp-sass postcss gulp-postcss autoprefixer cssnano gulp-terser
 ```
 
@@ -104,7 +125,7 @@ Create `gulpfile.js` file and copy content of my [gulpfile.js](https://github.co
 
 Update paths in `gulpfile.js` file according to your project folder structure.
 
-```javascripts
+```javascript
 // All paths
 const paths = {
   html: {
@@ -136,13 +157,13 @@ Run gulp tasks.
 
 To run any specific task use below command.
 
-```cmd
+```bash
 gulp your-task-name
 ```
 
 To run default task use below command.
 
-```cmd
+```bash
 gulp
 ```
 
@@ -150,7 +171,7 @@ This default task will run `watcher` task after finishing defined tasks. `watche
 
 To stop this `watcher` task and go out of watch state press `ctrl + c` in command prompt and answer the prompted question as `Y`.
 
-```cmd
+```bash
 ^CTerminate batch job (Y/N)? Y
 ```
 
@@ -158,7 +179,7 @@ To stop this `watcher` task and go out of watch state press `ctrl + c` in comman
 
 See the [open issues](https://github.com/ganesh-tyjo/gulp-app/issues) for a list of proposed features (and known issues).
 
-## Contributing
+## Contribution
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -170,7 +191,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/ganesh-tyjo/gulp-app/blob/master/LICENSE 'ganesh-tyjo/LICENSE') for more information.
 
 ## Author
 
