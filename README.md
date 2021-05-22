@@ -11,7 +11,7 @@ This is a gulpfile with useful tasks. Using this you can automate all boring and
 
 <br/>
 <details open='open'>
-<summary>Table Of Contents</summary>
+<summary><strong>Table of Contents<strong></summary>
 
 - [Summary](#summary)
 - [Common Tasks](#common-tasks)
@@ -189,3 +189,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ganesh-tyjo/
 ## Author
 
 Ganesh Shinde - ganeshshinde.tyjo@gmail.com
+
+Project Link - [https://github.com/ganesh-tyjo/gulp-app](https://github.com/ganesh-tyjo/gulp-app)
