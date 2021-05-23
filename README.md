@@ -12,7 +12,7 @@
   <a href="https://gulpjs.com">
     <img src="./content/images/gulp-logo.png" alt="Gulp" height="150" width="auto" >
   </a>
-  <p align="center">The streaming build system</p>
+  <p align="center"><strong>The streaming build system</strong></p>
 </p>
 
 ---
@@ -21,7 +21,7 @@ This is a gulpfile with useful tasks. Using this you can automate all boring and
 
 <br />
 <details open='open'>
-<summary><strong>Table of Contents<strong></summary>
+<summary><strong>Table of Contents</strong></summary>
 
 - [Summary](#summary)
 - [Common Tasks](#common-tasks)
