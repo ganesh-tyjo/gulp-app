@@ -111,7 +111,7 @@ function watcher() {
   watch(paths.scripts.src, parallel(minifyScripts, cacheBust));
 }
 
-// Export tasks to CLI and make them public
+// Export tasks to make them public
 exports.copyHtml = copyHtml;
 exports.optimizeImages = optimizeImages;
 exports.compileStyles = compileStyles;
