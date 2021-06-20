@@ -17,7 +17,9 @@
 
 ---
 
-This is a gulpfile with useful tasks. Using this you can automate all boring and repetitive tasks especially in regards to deploying a html, css and javascript website.
+Automate all those boring and repetitive tasks especially in regards to deploying a html, css and javascript website.
+
+Want to learn more about Gulp, then check out my blog [Gulp 4 Tutorial](https://dev.to/ganeshtyjo/gulp-4-tutorial-50l8)
 
 <br />
 <details open='open'>
